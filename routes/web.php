@@ -19,7 +19,7 @@ Route::get('/report', function () {
     return 'report page';
 });
 
-Route::get('/about', function () {
+Route::get('/abossut', function () {
     return 'about page';
 });
 
