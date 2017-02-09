@@ -26,3 +26,6 @@ Route::get('/abossut', function () {
 Route::get('/git commit --amend', function () {
     return 'git 修改备注';
 });
+Route::get('/mygithub_name', function () {
+    return 'Yashon Lvan';
+});
