@@ -22,3 +22,7 @@ Route::get('/report', function () {
 Route::get('/about', function () {
     return 'about page';
 });
+
+Route::get('/git commit --amend', function () {
+    return 'git 修改备注';
+});
