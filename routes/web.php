@@ -22,3 +22,6 @@ Route::get('/report', function () {
 Route::get('/about', function () {
     return 'about page';
 });
+Route::get('/mygithub_name', function () {
+    return 'Yashon Lvan';
+});
